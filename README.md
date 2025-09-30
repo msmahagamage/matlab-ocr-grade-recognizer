@@ -1,9 +1,9 @@
 # matlab-ocr-grade-recognizer
 # MATLAB OCR for Grade Table Recognition
 
-]A MATLAB project that uses digital image analysis and template matching to automatically recognize numerical grades from an image of a student roster, assign letter grades, and calculate class statistics.
+A MATLAB project that uses digital image analysis and template matching to automatically recognize numerical grades from an image of a student roster, assign letter grades, and calculate class statistics.
 
-]This project is a solution to the "Synthesis: Character Recognition" homework assignment for the ERE 622 - Digital Image Analysis course.
+This project is a solution to the "Synthesis: Character Recognition" homework assignment for the ERE 622 - Digital Image Analysis course.
 
 
 
